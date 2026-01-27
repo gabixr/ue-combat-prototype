@@ -39,3 +39,7 @@ Worked with an asset creator for art and assets. All gameplay systems, mechanics
 🧩 Technical Notes
 
 This project is mostly Blueprints for fast iteration, with C++ used for one core system to show how it integrates with Blueprint workflows. Future updates might add more C++ where performance or reuse matters.
+
+## 🎮 Gameplay Video
+
+[![Gameplay Demo](https://img.youtube.com/vi/8Ehj1fyuOy8/0.jpg)](https://youtu.be/8Ehj1fyuOy8)
