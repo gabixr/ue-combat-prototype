@@ -1,8 +1,7 @@
 # ue-combat-prototype
 A third-person top-down Unreal Engine game demonstrating modular gameplay mechanics and responsive combat systems. 
 
-🎮 Gameplay
-
+🎮 Gameplay 
 A combat-focused top-down game showcasing modular gameplay systems.
 
 Player and enemy combat mechanics include light & heavy attacks, dodge, perfect dodge, block, parry, and abilities.
