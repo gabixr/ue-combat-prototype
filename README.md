@@ -1,14 +1,17 @@
 # ue-combat-prototype
 A third-person top-down Unreal Engine game demonstrating modular gameplay mechanics and responsive combat systems. 
 
-
 🎮 Gameplay
 
-Player and enemy combat mechanics: attacks, dodges, blocks, and abilities, all handled through modular systems
+A combat-focused top-down game showcasing modular gameplay systems.
 
-Dynamic UI feedback: health, mana, abilities, and damage pop-ups respond in real time
+Player and enemy combat mechanics include light & heavy attacks, dodge, perfect dodge, block, parry, and abilities.
 
-Smooth combat interactions: everything is designed to feel responsive and connected
+Charge-based abilities: abilities can be charged up to three levels, triggering a different effect depending on the charge stage.
+
+Dynamic UI system: includes a health bar, ability charge bar, and action bar, all updating in real time based on gameplay events.
+
+All mechanics and UI are implemented through modular, reusable systems in Blueprints.
 
 
 🛠️ Tools & Tech
@@ -38,7 +41,8 @@ Worked with an asset creator for art and assets. All gameplay systems, mechanics
 
 🧩 Technical Notes
 
-This project is mostly Blueprints for fast iteration, with C++ used for one core system to show how it integrates with Blueprint workflows. Future updates might add more C++ where performance or reuse matters.
+The project is primarily built in Blueprints for fast iteration and modular gameplay.
+Future updates may expand C++ use for performance-critical, reusable systems and and multiplayer functionality.
 
 ## 🎮 Gameplay Video
 
