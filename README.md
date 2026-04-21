@@ -21,7 +21,7 @@ Unreal Engine 5
 
 Blueprints (main) for rapid prototyping and modular design
 
-C++ GAS integration layer — a Blueprint Function Library and Attribute Component built to introduce the Gameplay Ability System into an existing Blueprint project without rewriting existing logic. [See technical breakdown          →](Source/Prototype_04/README.md)
+C++ GAS integration layer — a Blueprint Function Library and Attribute Component built to introduce the Gameplay Ability System into an existing Blueprint project without rewriting existing logic. [See technical breakdown        →](https://github.com/gabixr/ue-combat-prototype-GAS-implementation)
 
 UI widgets, state machines, and event-driven systems
 
@@ -44,7 +44,7 @@ Worked with an asset creator for art and assets. All gameplay systems, mechanics
 
 🧩 Technical Notes
 
-The project is primarily built in Blueprints for fast iteration and modular gameplay design. A C++ GAS layer has been integrated to manage attributes, gameplay effects, and tag-driven logic — designed to slot into the existing Blueprint architecture without disrupting it. See the [GAS   implementation breakdown](Source/Prototype_04/README.md) for details. Future updates may expand C++ use for performance-critical systems and multiplayer functionality.
+The project is primarily built in Blueprints for fast iteration and modular gameplay design. A C++ GAS layer has been integrated to manage attributes, gameplay effects, and tag-driven logic — designed to slot into the existing Blueprint architecture without disrupting it. See the [See technical breakdown        →](https://github.com/gabixr/ue-combat-prototype-GAS-implementation) for details. Future updates may expand C++ use for performance-critical systems and multiplayer functionality.
 
 ## 🎮 Gameplay Video
 
